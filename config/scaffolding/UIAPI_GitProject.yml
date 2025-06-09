@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: UIAPI_GitProject
+  gitServerName: RakeshGithub
+  gitUrl: https://github.com/Rakeshkumards1997
+  gitUsername: Rakeshkumards1997
+  gitBranch: main
